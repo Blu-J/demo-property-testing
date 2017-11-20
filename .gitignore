@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+node_modules
+dist
+lib
+
+#Webstorm metadata
+.idea
+
+#VSCode metadata
+.vscode
+
+# Mac files
+.DS_Store
